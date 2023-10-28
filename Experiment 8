@@ -1,5 +1,5 @@
 /* 
- 22070123094
+ 22070123087
 EXP-8(Part-A)*/
 #include<iostream>
 using namespace std;
@@ -40,7 +40,7 @@ the given matrix is:
 
 /* 
  
- 22070123094
+ 22070123087
 Exp-8(Part-B)
 Addition of Matrix*/
 #include<iostream>
@@ -103,7 +103,7 @@ Sum of two matrix is:
 
 
 /* 
- 22070123094
+ 22070123087
 EXP-8(Part-C)*/
 #include<iostream>
 using namespace std;
@@ -184,7 +184,7 @@ Output Matrix:   2 2  2 2
 */
 
 /* 
- 22070123094
+ 22070123087
 EXP-8(Part-D)
 */
 #include <iostream>
@@ -272,7 +272,7 @@ Result of matrix multiplication:
 
 
 /* 
- 22070123094
+ 22070123087
 EXP-8(Part-E)*/
 #include<iostream>
 using namespace std ;
@@ -319,7 +319,7 @@ the  transposed matrix is:
 */
 
 /* 
- 22070123094
+ 22070123087
 EXP-8(Part-F)*/
 #include <iostream>
 using namespace std;
@@ -358,7 +358,7 @@ Sum of Right Diagonal: 18
 */
 
 /* 
- 22070123094
+ 22070123087
 EXP-8(Part-G)*/
 #include <iostream>
 
